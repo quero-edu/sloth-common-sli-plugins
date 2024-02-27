@@ -1,4 +1,4 @@
-# Traefik V2 availability
+# Traefik V2 availability by router
 
 Availability plugin for [Traefik V2][traefik] routers.
 

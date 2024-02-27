@@ -1,4 +1,4 @@
-# Traefik V2 latency
+# Traefik V2 latency by router
 
 Latency plugin for [Traefik V2][traefik] routers.
 
